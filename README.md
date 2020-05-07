@@ -6,4 +6,3 @@ template for infrastructure builder for aws
 * AWS Account
 * AWS IAM user with the proper policy attached
 
-
